@@ -1,0 +1,25 @@
+{
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "23/01/2026 11:20:36",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "23/01/2026 11:20:36",
+      "DS_LOCALE" : "es_MX",
+      "DS_IDIOMA" : "es",
+      "NR_SEQUENCIA" : "1147441",
+      "NM_USUARIO" : "ejsilva",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "ejsilva",
+      "CD_EXPRESSAO" : "1147441",
+      "DS_EXPRESSAO" : "Condiciones de uso para el usuario de CMDK",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "23/01/2026 11:20:36"
+    } ],
+    "DS_GLOSSARIO" : "Condiciones de uso para el usuario de CMDK",
+    "NM_USUARIO" : "ejsilva",
+    "NM_USUARIO_NREC" : "ejsilva",
+    "CD_EXPRESSAO" : "1147441",
+    "DT_ATUALIZACAO" : "23/01/2026 11:20:36"
+  } ]
+}
